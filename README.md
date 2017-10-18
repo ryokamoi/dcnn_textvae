@@ -4,7 +4,7 @@ paper:[https://arxiv.org/abs/1702.08139v2](https://arxiv.org/abs/1702.08139v2)
 
 This is NOT an original implementation. There may be some minor differences from the original structure.
 
-Results are reported in [my blog]()
+Results are reported in [my blog](https://sesenosannko.github.io/contents/text_g/dcnn)
 
 ## Prerequisites
 
