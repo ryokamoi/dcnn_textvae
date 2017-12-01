@@ -23,9 +23,13 @@ Dataset is not contained. Please prepare your own dataset.
 
 Pickle file of Numpy array of word ids (shape=[batch_size, sentence_length]).
 
+ * Label
+
+Pickle file of Numpy array of a label of a class (sentiment, category, etc.) (shape=[batch_size, class num]).
+
  * Dictionary
 
-Pickle file of Python dictionary. It should contain "<EOS>", "<PAD>", "<GO>" as meta words.
+Pickle file of Python dictionary. It should contain "\<EOS\>", "\<PAD\>", "\<GO\>" as meta words.
 
 ```python
   dictionary = {word1: id1,
