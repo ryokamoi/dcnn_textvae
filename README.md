@@ -25,7 +25,7 @@ Pickle file of Numpy array of word ids (shape=[batch_size, sentence_length]).
 
  * Label
 
-Pickle file of Numpy array of a label of a class (sentiment, category, etc.) (shape=[batch_size, class num]).
+Pickle file of Numpy array of a label of a class (sentiment, category, etc.) (shape=[batch_size]).
 
  * Dictionary
 
